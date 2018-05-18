@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 211032b4f7476fd459081495c30964ac
+timeCreated: 1491250867
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: LEGEND OF THE WHITE LION
+  fontNames:
+  - LEGEND OF THE WHITE LION
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2e1e32c2c3a82104a869440b0f1e1765
+timeCreated: 1491250223
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Olive_Juice
+  fontNames:
+  - Olive_Juice
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

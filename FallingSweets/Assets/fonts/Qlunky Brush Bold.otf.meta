@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1bfb4ba5c2cd5814994fb2988ce0d41b
+timeCreated: 1491250920
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Qlunky Brush
+  fontNames:
+  - Qlunky Brush
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

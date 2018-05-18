@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fc204bb4ab5d4b549b46703f47f36693
+timeCreated: 1493892621
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - BGaudio: {fileID: 8300000, guid: 339d0f72d63df5942a37a8ec003a6d7e, type: 3}
+  - BGaudio1: {fileID: 8300000, guid: e86d797f027bbad44b724ff1e8f0d83b, type: 3}
+  - score: {fileID: 114958726793693722, guid: 65e3f55487c6a0644b896ecbe9ccf649, type: 2}
+  - popanimation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

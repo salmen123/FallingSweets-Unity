@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6b4cd3fee7c797f43a14b1be2be53058
+timeCreated: 1491250903
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Observant DEMO
+  fontNames:
+  - Observant DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

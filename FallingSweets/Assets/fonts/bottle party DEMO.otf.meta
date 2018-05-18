@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f1bb9d6884d27074cb5289ff7e7d0473
+timeCreated: 1491250841
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bottle Party DEMO
+  fontNames:
+  - Bottle Party DEMO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
